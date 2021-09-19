@@ -39,7 +39,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>Inside Outt</h1>
+      <h1>Emojie Finder</h1>
       <input
         style={{
           padding: "1em",
